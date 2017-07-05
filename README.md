@@ -1,3 +1,3 @@
 # GITAPITEST
-testing GIT APIs
-updating
+readme in testapi branch
+
